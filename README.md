@@ -1,6 +1,7 @@
 <div align="center">  <img src="https://raw.githubusercontent.com/Cyber-with-Ella/Cyber-with-Ella/main/Whatsapp%20images.jpeg" alt="Cyber-with-Ella Cybersecurity Profile Banner" width="100%"><br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+in+Training;Linux+Enthusiast;Ethical+Hacker+in+Training;GRC+Analyst" alt="Cybersecurity roles animated typing"></div><br>👋 Introduction
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+in+Training;Linux+Enthusiast;Ethical+Hacker+in+Training;GRC+Analyst" alt="Cybersecurity roles animated typing"></div><br>
+  👋 Introduction
 
 I’m Cyber-with-Ella, a cybersecurity professional in training building a strong foundation in Cybersecurity, Ethical Hacking, and GRC Analysis.
 
